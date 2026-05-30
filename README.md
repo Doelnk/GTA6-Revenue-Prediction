@@ -11,7 +11,7 @@
 **An end-to-end machine learning pipeline predicting GTA 6's opening day revenue**
 **using 44 historical AAA game launches as training data.**
 
-### 🔴 [→ View Live Interactive Dashboard](https://doelnk.github.io/GTA6-Revenue-Prediction)
+### 🔴 [→ View Live Interactive Dashboard](https://doelnk.github.io/GTA6-Revenue-Prediction/)
 
 <br/>
 
@@ -175,7 +175,7 @@ These are the real problems — not the clean tutorial version.
 
 ## 📊 Dashboard Features
 
-**[→ Open the live dashboard](https://doelnk.github.io/GTA6-Revenue-Prediction)**
+**[→ Open the live dashboard](https://doelnk.github.io/GTA6-Revenue-Prediction/)**
 
 | Visual | What It Shows |
 |---|---|
